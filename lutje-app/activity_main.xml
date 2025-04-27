@@ -1,0 +1,40 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/quoteText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quote will appear here"
+        android:textSize="24sp"
+        android:gravity="center"
+        android:padding="16dp"/>
+
+    <TextView
+        android:id="@+id/authorText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Author"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:padding="8dp"/>
+
+    <Button
+        android:id="@+id/nextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next Quote"
+        android:layout_marginTop="24dp"/>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:visibility="gone"
+        android:layout_marginTop="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
