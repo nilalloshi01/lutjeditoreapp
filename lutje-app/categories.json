@@ -1,0 +1,48 @@
+[{
+  "id": 1,
+  "name": "Lutje nga Kurani",
+  "description": "Lutje të marra nga Kurani i Shenjtë",
+  "icon": "book"
+},
+{
+  "id": 2,
+  "name": "Lutje nga Suneti",
+  "description": "Lutje të marra nga Suneti i Profetit",
+  "icon": "sun"
+},
+{
+  "id": 3,
+  "name": "Lutje për mëshirë",
+  "description": "Lutje që kërkojnë mëshirën e Allahut",
+  "icon": "heart"
+},
+{
+  "id": 4,
+  "name": "Lutje për falje",
+  "description": "Lutje që kërkojnë faljen e Allahut",
+  "icon": "refresh-cw"
+},
+{
+  "id": 5,
+  "name": "Lutje për udhëzim",
+  "description": "Lutje që kërkojnë udhëzimin e Allahut",
+  "icon": "compass"
+},
+{
+  "id": 6,
+  "name": "Lutje për mbrojtje",
+  "description": "Lutje që kërkojnë mbrojtjen e Allahut",
+  "icon": "shield"
+},
+{
+  "id": 7,
+  "name": "Lutje për familjen",
+  "description": "Lutje për familjen dhe të dashurit",
+  "icon": "users"
+},
+{
+  "id": 8,
+  "name": "Lutje për dituri",
+  "description": "Lutje që kërkojnë dituri dhe urtësi",
+  "icon": "book-open"
+}]
