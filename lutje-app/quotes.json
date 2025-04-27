@@ -1,300 +1,296 @@
-<<<<<<< UPDATED_LOCAL
 [
-    {
-      "id": 1,
-      "text": "Rabbena dhalemna enfusena ue in lem tagfirlena ue terhamna lenkunenne minel hasirin.",
-      "translation": "Zoti ynë, ne i bëmë të padrejtë vetvetes, në qoftë se nuk na falë dhe nuk na mëshiron, ne me siguri do të jemi prej të shkatërruarve!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 2,
-      "text": "Rabbi inni eudhu bike en es'eluke ma lejse li bihi ilmun, ue il-la tegfir li ue terhamni ekun minel hasirin.",
-      "translation": "Zoti im, unë mbështetem në mbrojtjen Tënde që të mos kërkoj prej Teje atë për çka nuk kam njohuri, e në qoftë se nuk më fal mua dhe nuk më mëshiron Ti, do të jem i humbur!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 3,
-      "text": "Rabbigfirli ueliualidejje uelimen dehale bejtije mu'minen uelil mu'minine uel mu'minat.",
-      "translation": "Zoti im, më falë mua dhe prindërit e mi, si dhe ata që hynë në shtëpinë time, duke qenë besimtarë, edhe besimtarët e besimtaret.",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 4,
-      "text": "Rabbena tekabbel minna. Inneke Entes Semi'ul Alim.",
-      "translation": "Zoti ynë, pranoje prej nesh, se me të vërtetë Ti je që dëgjon dhe e di!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 5,
-      "text": "Ue tub alejna. Inneke Ente Teuuabu Rrahim.",
-      "translation": "Dhe falna neve, vërtetë Ti je Falës dhe Mëshirues!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 6,
-      "text": "Rabbixh'alni mukimes salati uemin dhurrijjeti. Rabbena ue tekabbel duai.",
-      "translation": "O Zoti im! Më bën mua nga ata që falin namazin dhe prej pasardhësve të mi, si dhe pranoje lutjen time o Zoti ynë!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 7,
-      "text": "Rabbigfirli ueli ualidejje uelil mu'minine jeume jekumul hisab.",
-      "translation": "Zoti ynë! Më fal gabimet mua edhe prindërve të mi, fali edhe të gjithë besimtarët Ditën kur jepet llogaria.",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 8,
-      "text": "Rabbi heb li hukmen ue el hikni bis salihin. Uexh'al-li lisane sidkin fil ahirin. Uexh'alni min Ueretheti xhennetin naim.",
-      "translation": "Zoti im, më dhuro mua urtësi dhe më bashko me të mirët! Më bën përkujtim të mirë ndër ata që vijnë pas, Më bën prej trashëguesve të Xhenetit të begatshëm.",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 9,
-      "text": "Ue la tuhzini jeume jub'athun.",
-      "translation": "E mos më turpëro në Ditën kur do të ringjallen.",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 10,
-      "text": "Rabbi heb li mines salihin.",
-      "translation": "Zoti im, më dhuro mua një fëmijë prej të mirëve!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 11,
-      "text": "Rabbena alejke teuuekelna ue ilejke enebna ue ilejkel mesir.",
-      "translation": "Zoti ynë, vetëm Ty të jemi mbështetur, vetëm nga Ti jemi kthyer dhe vetëm te Ti është e ardhmja!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 12,
-      "text": "Rabbena la texh'alna fitneten liledhine keferu uagfir lena Rabbenna, Inneke Entel Azizul Hakim.",
-      "translation": "Zoti ynë, mos na vën në sprovë në duar të atyre që nuk besuan dhe falna, Zoti ynë, Ti je Ngadhënjyesi, i Urti.",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 13,
-      "text": "Rabbi euzi'ani en eshkuruke niameteke eleti enamte aleje ue ala ualideje ue en e'amele salihan terdahu uedkulni birahmetike fi ibadikes salihin.",
-      "translation": "Zoti im, më mundëso që të falënderoj të mirat Tuaja që m'i dhurove mua dhe prindërve të mi dhe që të bëj vepra të mira që Ti i pëlqen, e me mëshirën tënde më fut në mesin e robërve Tuaj të mirë!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 14,
-      "text": "Rabbi heb li min ledunke dhurrijjeten tajjibeten, inneke Semiud dua.",
-      "translation": "Zoti im, më falë edhe mua nga ana Juaj një pasardhës të mirë, vërtet, Ti je Dëgjues i lutjes!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 15,
-      "text": "Rabbi la tedherni ferdan ue Ente hajrul uarithin.",
-      "translation": "Zoti im, mos më le të vetmuar se Ti je më i miri trashëgues.",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 16,
-      "text": "La ilahe il-la Ente Subhaneke Inni kuntu minedh dhalimin.",
-      "translation": "Nuk ka Zot që meriton të adhurohet përveç Teje që je i Madhëruar. Vërtetë, unë jam prej të padrejtëve.",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 17,
-      "text": "Rabbi shrahli sadri. Ue jessir li emri. Uahlul ukdeten min lisani. Jefkahu kauli.",
-      "translation": "Zoti im, ma zgjero gjoksin tim! Më lehtëso në këtë punë timen! Më zgjidh nyjën e gjuhës sime! Që ta kuptojnë fjalën time!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 18,
-      "text": "Rabbi inni dhalemtu nefsi fagfir li.",
-      "translation": "Zoti im, unë e ngarkova veten e Ti më fal mua!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 19,
-      "text": "Rabbena amenna bima enzelte uetteb'ana rresule, fektubna meash shahidin.",
-      "translation": "Zoti ynë, ne e besuam shpalljen, e pasuam të Dërguarin, pra shënona bashkë me ata që dëshmojnë besimin e drejtë!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 20,
-      "text": "Rabbena la texh'alna fitneten lilkaumidh dhalimin. Ue nexhxhina birahmetike minel kaumil kafirin.",
-      "translation": "Zoti ynë, mos i mundëso popullit mizor të na sprovojë! Me Mëshirën Tënde, na shpëto prej popullit jobesimtarë!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 21,
-      "text": "Rabbenagfir lena dhunubena ve israfena fi emrina ve thebbit akdemena vensurna alal kaumil kafirin.",
-      "translation": "Zoti ynë, na i falë mëkatet dhe teprimin në veprat tona, si dhe na forco këmbët tona dhe na ndihmon kundër popullit jobesimtar!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 22,
-      "text": "Rabbena atina min ledunke rahmeten ue hajjij lena min emrina resheda.",
-      "translation": "O Zoti ynë, na dhuro nga ana Jote mëshirë dhe na përgatitë udhëzim të drejtë në tërë çështjen tonë!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 23,
-      "text": "Rabbi zidni ilma.",
-      "translation": "Zoti im, më shto dituri!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 24,
-      "text": "Rabbi eudhu bike min hemezatish shejatin. Ue eudhu bike Rabbi en jahdurun.",
-      "translation": "O Zot im, unë mbrohem me Ty prej cytjeve të djajve! Kërkoj mbrojtjen Tënde që ata të mos më afrohen!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 25,
-      "text": "Rabbigfir uerham ue Ente hajru Rrahimin.",
-      "translation": "O Zoti im, më fal e më mëshiro, se Ti je më i miri i Mëshiruesve!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 26,
-      "text": "Rabbena atina fi dunja haseneten ue fil ahireti haseneten ue kina adhaben nar.",
-      "translation": "Zoti ynë na jep të mira në këtë jetë, të mira në botën tjetër dhe na ruaj nga dënimi i zjarrit!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 27,
-      "text": "Semi'na ue eta'ana gufraneke Rabbena ue ilejkel masir.",
-      "translation": "Dëgjuam dhe respektuam. Kërkojmë faljen tënde o Zoti ynë, te Ti është ardhmëria jonë.",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 28,
-      "text": "Rabbena la tua'hidhna in nesina eu ahta'ana. Rabbena ue la tahmil alejna isren kema hameltehu alel-ledhine min kablina, Rabbena ue la tuhammilna ma la takate lena bihi ua'fu anna, uagfir lena, uerhamna, ente meulana, fensurna alel kaumil-kafirin.",
-      "translation": "Zoti ynë, mos na dëno nëse harrojmë ose gabojmë! Zoti ynë, mos na ngarko neve barrë të rëndë siç i ngarkove ata para nesh! Zoti ynë, mos na ngarko me atë për të cilën nuk kemi fuqi! Na i mbulo të këqijat, na fal dhe na mëshiro. Ti je Mbrojtësi ynë, pra na ndihmo kundër popullit pabesimtarë!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 29,
-      "text": "Rabbena la tuzig kulubena ba'ade idh hedejtena ue heb lena min ledunke rahmeten. Inneke Entel Vehhab.",
-      "translation": "Zoti ynë, mos na i lako zemrat tona pasi na i drejtove, na dhuro mëshirën Tënde, ngase vetëm Ti je Dhuruesi i Madh.",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 30,
-      "text": "Rabbena ma halekte hadha batilen Subhaneke fekina adhaben nar. Rabbena Inneke men tud-hilin nare fekad ehzejtehu ue ma lidh dhalimine min ensar. Rabbena innena semi'ena munadijen junadi lil imani en aminu bi Rabbikum fe amenna. Rabbena fegfirlena dhunubena ue kefir anna sejjiatina ue teueffena meal ebrari. Rabbena ue atina ma ueadtena ala rusulike ue la tuhzina jeumel kijameh. Inneke la tuhliful miad.",
-      "translation": "Zoti ynë, këtë nuk e krijove kot, i lartësuar qofsh, ruana prej dënimit të zjarrit! Zoti ynë, atë të cilin që Ti e fute në zjarr, atë e ke poshtëruar! Zoti ynë, ne dëgjuam një thirrës që ftonte për besim:Të besoni Zotin tuaj! E ne besuam! Zoti ynë, na i falë mëkatet tona, na i mbulo të metat dhe pas vdekjes na bashko me të mirët! Zoti ynë, jepna atë që nëpërmjet të Dërguarve Tu, na e premtove dhe në Ditën e Kijametit mos na turpëro. Me të vërtetë Ti je Ai që nuk e shkel premtimin.",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 31,
-      "text": "Rabbena amenna fagfir lena uerhamna ue ente hajrul Rrahimin.",
-      "translation": "O Zoti ynë, ne besuam, prandaj na falë dhe na mëshiro, se Ti je më i miri i Mëshiruesve!",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 32,
-      "text": "Rabbenasrif anna adhabe xhehennem inne adhabeha kane garama. Inneha saet mustekarran ue mukama.",
-      "translation": "Zoti ynë, largoje prej nesh vuajtjen e Xhehenemit, e s'ka dyshim se vuajtja në të është gjëja më e rëndë. Ai, vërtet është vendqëndrim i keq.",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 33,
-      "text": "Rabbena heb lena min ezuaxhina ve dhurrijjetina kurrete ajunin uexh'alna lil muttekine imama.",
-      "translation": "Zoti ynë, na bën që të jemi të gëzuar me punën e grave tona dhe pasardhësve tanë, neve na bën shembull për të devotshmit.",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 34,
-      "text": "Rabbi euzi'ni en eshkure niametikel-leti enamte alejje ue ala ualidejje ue en e'amele salihan terdahu ue eslih li fi dhurrijjeti inni tubbtu ilejke ue inni minel muslimin.",
-      "translation": "Zoti im, më inspiro mua që të falënderoj për të mirën tënde që ma dhurove mua dhe prindërve të mi, që të bëj vepra të mira që i pëlqen Ti dhe m'i bën të mirë pasardhësit e mi, unë pendohem tek Ti dhe unë jam prej muslimanëve.",
-      "source": "Lutje nga Kurani",
-      "category_id": 1
-    },
-    {
-      "id": 35,
-      "text": "Rabbenagfir lena ue li ihavaninal ledhine sebekuna bil imani ue la texh'al fi kulubina gil-len lil ledhine amenu, Rabbena Inneke Reufun Rahim.",
-      "translation": "Zoti ynë, falna ne dhe vëllezërit tanë që para nesh u pajisën me besim dhe mos lejo në zemrat tona urrejtjeje ndaj atyre që besuan. Zoti ynë Ti je i Butë, Mëshirues!",
-      "source": "Lutje nga Suneti",
-      "category_id": 2
-    },
-    {
-      "id": 36,
-      "text": "Rabbena etmim lena nurena uagfirlena. Inneke ala kul-li shejin Kadir.",
-      "translation": "Zoti ynë, na e plotëso dritën tonë, falna neve. Vërtet, Ti je i Plotfuqishëm për çdo send.",
-      "source": "Lutje nga Suneti",
-      "category_id": 2
-    },
-    {
-      "id": 37,
-      "text": "Rabbena innena amenna fagfir lena dhunubena ue kina adhaben nar.",
-      "translation": "Zoti ynë, ne vërtet besuam, na i falë mëkatet tona dhe na ruaj prej ndëshkimit të zjarrit!",
-      "source": "Lutje nga Suneti",
-      "category_id": 2
-    },
-    {
-      "id": 38,
-      "text": "Rabbena amenna fektubna meash shahidin.",
-      "translation": "Zoti ynë, ne kemi besuar, pra na regjistro ndër ata që dëshmojnë.",
-      "source": "Lutje nga Suneti",
-      "category_id": 2
-    },
-    {
-      "id": 39,
-      "text": "Rabbixh'al hadhal belede aminen ue xhnubni ue benijje en ne'abudel esnam.",
-      "translation": "Zoti im! Bëje këtë qytet të sigurt dhe më mbro mua e bijtë e mi nga adhurimi i idhujve.",
-      "source": "Lutje nga Suneti",
-      "category_id": 2
-    },
-    {
-      "id": 40,
-      "text": "Rabbi inni lima enzelte ilejje min hajrin fekir.",
-      "translation": "O Zoti im çfarëdo dhuntie që të më japësh, unë jam nevojtar!",
-      "source": "Lutje nga Suneti",
-      "category_id": 2
-    },
-    {
-      "id": 41,
-      "text": "Rabbinsurni alel kaumil mufsidin.",
-      "translation": "O Zoti im, më ndihmo kundër popullit të prishur!",
-      "source": "Lutje nga Suneti",
-      "category_id": 2
-    },
-    {
-      "id": 42,
-      "text": "Rabbena la texh'alna meal kaumi dhalimin.",
-      "translation": "Zoti ynë mos na bëj neve me mizorët!",
-      "source": "Lutje nga Suneti",
-      "category_id": 2
-    }
-  ]
-=======
->>>>>>> UPDATED_REMOTE
-y  
+  {
+    "id": 1,
+    "text": "Rabbena dhalemna enfusena ue in lem tagfirlena ue terhamna lenkunenne minel hasirin.",
+    "translation": "Zoti ynë, ne i bëmë të padrejtë vetvetes, në qoftë se nuk na falë dhe nuk na mëshiron, ne me siguri do të jemi prej të shkatërruarve!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "text": "Rabbi inni eudhu bike en es'eluke ma lejse li bihi ilmun, ue il-la tegfir li ue terhamni ekun minel hasirin.",
+    "translation": "Zoti im, unë mbështetem në mbrojtjen Tënde që të mos kërkoj prej Teje atë për çka nuk kam njohuri, e në qoftë se nuk më fal mua dhe nuk më mëshiron Ti, do të jem i humbur!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 3,
+    "text": "Rabbigfirli ueliualidejje uelimen dehale bejtije mu'minen uelil mu'minine uel mu'minat.",
+    "translation": "Zoti im, më falë mua dhe prindërit e mi, si dhe ata që hynë në shtëpinë time, duke qenë besimtarë, edhe besimtarët e besimtaret.",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 4,
+    "text": "Rabbena tekabbel minna. Inneke Entes Semi'ul Alim.",
+    "translation": "Zoti ynë, pranoje prej nesh, se me të vërtetë Ti je që dëgjon dhe e di!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 5,
+    "text": "Ue tub alejna. Inneke Ente Teuuabu Rrahim.",
+    "translation": "Dhe falna neve, vërtetë Ti je Falës dhe Mëshirues!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 6,
+    "text": "Rabbixh'alni mukimes salati uemin dhurrijjeti. Rabbena ue tekabbel duai.",
+    "translation": "O Zoti im! Më bën mua nga ata që falin namazin dhe prej pasardhësve të mi, si dhe pranoje lutjen time o Zoti ynë!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 7,
+    "text": "Rabbigfirli ueli ualidejje uelil mu'minine jeume jekumul hisab.",
+    "translation": "Zoti ynë! Më fal gabimet mua edhe prindërve të mi, fali edhe të gjithë besimtarët Ditën kur jepet llogaria.",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 8,
+    "text": "Rabbi heb li hukmen ue el hikni bis salihin. Uexh'al-li lisane sidkin fil ahirin. Uexh'alni min Ueretheti xhennetin naim.",
+    "translation": "Zoti im, më dhuro mua urtësi dhe më bashko me të mirët! Më bën përkujtim të mirë ndër ata që vijnë pas, Më bën prej trashëguesve të Xhenetit të begatshëm.",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 9,
+    "text": "Ue la tuhzini jeume jub'athun.",
+    "translation": "E mos më turpëro në Ditën kur do të ringjallen.",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 10,
+    "text": "Rabbi heb li mines salihin.",
+    "translation": "Zoti im, më dhuro mua një fëmijë prej të mirëve!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 11,
+    "text": "Rabbena alejke teuuekelna ue ilejke enebna ue ilejkel mesir.",
+    "translation": "Zoti ynë, vetëm Ty të jemi mbështetur, vetëm nga Ti jemi kthyer dhe vetëm te Ti është e ardhmja!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 12,
+    "text": "Rabbena la texh'alna fitneten liledhine keferu uagfir lena Rabbenna, Inneke Entel Azizul Hakim.",
+    "translation": "Zoti ynë, mos na vën në sprovë në duar të atyre që nuk besuan dhe falna, Zoti ynë, Ti je Ngadhënjyesi, i Urti.",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 13,
+    "text": "Rabbi euzi'ani en eshkuruke niameteke eleti enamte aleje ue ala ualideje ue en e'amele salihan terdahu uedkulni birahmetike fi ibadikes salihin.",
+    "translation": "Zoti im, më mundëso që të falënderoj të mirat Tuaja që m'i dhurove mua dhe prindërve të mi dhe që të bëj vepra të mira që Ti i pëlqen, e me mëshirën tënde më fut në mesin e robërve Tuaj të mirë!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 14,
+    "text": "Rabbi heb li min ledunke dhurrijjeten tajjibeten, inneke Semiud dua.",
+    "translation": "Zoti im, më falë edhe mua nga ana Juaj një pasardhës të mirë, vërtet, Ti je Dëgjues i lutjes!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 15,
+    "text": "Rabbi la tedherni ferdan ue Ente hajrul uarithin.",
+    "translation": "Zoti im, mos më le të vetmuar se Ti je më i miri trashëgues.",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 16,
+    "text": "La ilahe il-la Ente Subhaneke Inni kuntu minedh dhalimin.",
+    "translation": "Nuk ka Zot që meriton të adhurohet përveç Teje që je i Madhëruar. Vërtetë, unë jam prej të padrejtëve.",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 17,
+    "text": "Rabbi shrahli sadri. Ue jessir li emri. Uahlul ukdeten min lisani. Jefkahu kauli.",
+    "translation": "Zoti im, ma zgjero gjoksin tim! Më lehtëso në këtë punë timen! Më zgjidh nyjën e gjuhës sime! Që ta kuptojnë fjalën time!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 18,
+    "text": "Rabbi inni dhalemtu nefsi fagfir li.",
+    "translation": "Zoti im, unë e ngarkova veten e Ti më fal mua!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 19,
+    "text": "Rabbena amenna bima enzelte uetteb'ana rresule, fektubna meash shahidin.",
+    "translation": "Zoti ynë, ne e besuam shpalljen, e pasuam të Dërguarin, pra shënona bashkë me ata që dëshmojnë besimin e drejtë!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 20,
+    "text": "Rabbena la texh'alna fitneten lilkaumidh dhalimin. Ue nexhxhina birahmetike minel kaumil kafirin.",
+    "translation": "Zoti ynë, mos i mundëso popullit mizor të na sprovojë! Me Mëshirën Tënde, na shpëto prej popullit jobesimtarë!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 21,
+    "text": "Rabbenagfir lena dhunubena ve israfena fi emrina ve thebbit akdemena vensurna alal kaumil kafirin.",
+    "translation": "Zoti ynë, na i falë mëkatet dhe teprimin në veprat tona, si dhe na forco këmbët tona dhe na ndihmon kundër popullit jobesimtar!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 22,
+    "text": "Rabbena atina min ledunke rahmeten ue hajjij lena min emrina resheda.",
+    "translation": "O Zoti ynë, na dhuro nga ana Jote mëshirë dhe na përgatitë udhëzim të drejtë në tërë çështjen tonë!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 23,
+    "text": "Rabbi zidni ilma.",
+    "translation": "Zoti im, më shto dituri!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 24,
+    "text": "Rabbi eudhu bike min hemezatish shejatin. Ue eudhu bike Rabbi en jahdurun.",
+    "translation": "O Zot im, unë mbrohem me Ty prej cytjeve të djajve! Kërkoj mbrojtjen Tënde që ata të mos më afrohen!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 25,
+    "text": "Rabbigfir uerham ue Ente hajru Rrahimin.",
+    "translation": "O Zoti im, më fal e më mëshiro, se Ti je më i miri i Mëshiruesve!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 26,
+    "text": "Rabbena atina fi dunja haseneten ue fil ahireti haseneten ue kina adhaben nar.",
+    "translation": "Zoti ynë na jep të mira në këtë jetë, të mira në botën tjetër dhe na ruaj nga dënimi i zjarrit!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 27,
+    "text": "Semi'na ue eta'ana gufraneke Rabbena ue ilejkel masir.",
+    "translation": "Dëgjuam dhe respektuam. Kërkojmë faljen tënde o Zoti ynë, te Ti është ardhmëria jonë.",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 28,
+    "text": "Rabbena la tua'hidhna in nesina eu ahta'ana. Rabbena ue la tahmil alejna isren kema hameltehu alel-ledhine min kablina, Rabbena ue la tuhammilna ma la takate lena bihi ua'fu anna, uagfir lena, uerhamna, ente meulana, fensurna alel kaumil-kafirin.",
+    "translation": "Zoti ynë, mos na dëno nëse harrojmë ose gabojmë! Zoti ynë, mos na ngarko neve barrë të rëndë siç i ngarkove ata para nesh! Zoti ynë, mos na ngarko me atë për të cilën nuk kemi fuqi! Na i mbulo të këqijat, na fal dhe na mëshiro. Ti je Mbrojtësi ynë, pra na ndihmo kundër popullit pabesimtarë!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 29,
+    "text": "Rabbena la tuzig kulubena ba'ade idh hedejtena ue heb lena min ledunke rahmeten. Inneke Entel Vehhab.",
+    "translation": "Zoti ynë, mos na i lako zemrat tona pasi na i drejtove, na dhuro mëshirën Tënde, ngase vetëm Ti je Dhuruesi i Madh.",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 30,
+    "text": "Rabbena ma halekte hadha batilen Subhaneke fekina adhaben nar. Rabbena Inneke men tud-hilin nare fekad ehzejtehu ue ma lidh dhalimine min ensar. Rabbena innena semi'ena munadijen junadi lil imani en aminu bi Rabbikum fe amenna. Rabbena fegfirlena dhunubena ue kefir anna sejjiatina ue teueffena meal ebrari. Rabbena ue atina ma ueadtena ala rusulike ue la tuhzina jeumel kijameh. Inneke la tuhliful miad.",
+    "translation": "Zoti ynë, këtë nuk e krijove kot, i lartësuar qofsh, ruana prej dënimit të zjarrit! Zoti ynë, atë të cilin që Ti e fute në zjarr, atë e ke poshtëruar! Zoti ynë, ne dëgjuam një thirrës që ftonte për besim:Të besoni Zotin tuaj! E ne besuam! Zoti ynë, na i falë mëkatet tona, na i mbulo të metat dhe pas vdekjes na bashko me të mirët! Zoti ynë, jepna atë që nëpërmjet të Dërguarve Tu, na e premtove dhe në Ditën e Kijametit mos na turpëro. Me të vërtetë Ti je Ai që nuk e shkel premtimin.",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 31,
+    "text": "Rabbena amenna fagfir lena uerhamna ue ente hajrul Rrahimin.",
+    "translation": "O Zoti ynë, ne besuam, prandaj na falë dhe na mëshiro, se Ti je më i miri i Mëshiruesve!",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 32,
+    "text": "Rabbenasrif anna adhabe xhehennem inne adhabeha kane garama. Inneha saet mustekarran ue mukama.",
+    "translation": "Zoti ynë, largoje prej nesh vuajtjen e Xhehenemit, e s'ka dyshim se vuajtja në të është gjëja më e rëndë. Ai, vërtet është vendqëndrim i keq.",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 33,
+    "text": "Rabbena heb lena min ezuaxhina ve dhurrijjetina kurrete ajunin uexh'alna lil muttekine imama.",
+    "translation": "Zoti ynë, na bën që të jemi të gëzuar me punën e grave tona dhe pasardhësve tanë, neve na bën shembull për të devotshmit.",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 34,
+    "text": "Rabbi euzi'ni en eshkure niametikel-leti enamte alejje ue ala ualidejje ue en e'amele salihan terdahu ue eslih li fi dhurrijjeti inni tubbtu ilejke ue inni minel muslimin.",
+    "translation": "Zoti im, më inspiro mua që të falënderoj për të mirën tënde që ma dhurove mua dhe prindërve të mi, që të bëj vepra të mira që i pëlqen Ti dhe m'i bën të mirë pasardhësit e mi, unë pendohem tek Ti dhe unë jam prej muslimanëve.",
+    "source": "Lutje nga Kurani",
+    "category_id": 1
+  },
+  {
+    "id": 35,
+    "text": "Rabbenagfir lena ue li ihavaninal ledhine sebekuna bil imani ue la texh'al fi kulubina gil-len lil ledhine amenu, Rabbena Inneke Reufun Rahim.",
+    "translation": "Zoti ynë, falna ne dhe vëllezërit tanë që para nesh u pajisën me besim dhe mos lejo në zemrat tona urrejtjeje ndaj atyre që besuan. Zoti ynë Ti je i Butë, Mëshirues!",
+    "source": "Lutje nga Suneti",
+    "category_id": 2
+  },
+  {
+    "id": 36,
+    "text": "Rabbena etmim lena nurena uagfirlena. Inneke ala kul-li shejin Kadir.",
+    "translation": "Zoti ynë, na e plotëso dritën tonë, falna neve. Vërtet, Ti je i Plotfuqishëm për çdo send.",
+    "source": "Lutje nga Suneti",
+    "category_id": 2
+  },
+  {
+    "id": 37,
+    "text": "Rabbena innena amenna fagfir lena dhunubena ue kina adhaben nar.",
+    "translation": "Zoti ynë, ne vërtet besuam, na i falë mëkatet tona dhe na ruaj prej ndëshkimit të zjarrit!",
+    "source": "Lutje nga Suneti",
+    "category_id": 2
+  },
+  {
+    "id": 38,
+    "text": "Rabbena amenna fektubna meash shahidin.",
+    "translation": "Zoti ynë, ne kemi besuar, pra na regjistro ndër ata që dëshmojnë.",
+    "source": "Lutje nga Suneti",
+    "category_id": 2
+  },
+  {
+    "id": 39,
+    "text": "Rabbixh'al hadhal belede aminen ue xhnubni ue benijje en ne'abudel esnam.",
+    "translation": "Zoti im! Bëje këtë qytet të sigurt dhe më mbro mua e bijtë e mi nga adhurimi i idhujve.",
+    "source": "Lutje nga Suneti",
+    "category_id": 2
+  },
+  {
+    "id": 40,
+    "text": "Rabbi inni lima enzelte ilejje min hajrin fekir.",
+    "translation": "O Zoti im çfarëdo dhuntie që të më japësh, unë jam nevojtar!",
+    "source": "Lutje nga Suneti",
+    "category_id": 2
+  },
+  {
+    "id": 41,
+    "text": "Rabbinsurni alel kaumil mufsidin.",
+    "translation": "O Zoti im, më ndihmo kundër popullit të prishur!",
+    "source": "Lutje nga Suneti",
+    "category_id": 2
+  },
+  {
+    "id": 42,
+    "text": "Rabbena la texh'alna meal kaumi dhalimin.",
+    "translation": "Zoti ynë mos na bëj neve me mizorët!",
+    "source": "Lutje nga Suneti",
+    "category_id": 2
+  }
+]
